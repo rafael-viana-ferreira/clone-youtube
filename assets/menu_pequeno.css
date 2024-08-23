@@ -1,0 +1,27 @@
+.menu_pequeno {
+    position: fixed;
+    color: aliceblue;
+    margin-top: 6rem;
+    padding-left: 2px;
+}
+
+.menu_pequeno li {
+    padding-top: 9px;
+    margin-bottom: 8px;
+    width: 6.4rem;
+    height: 6.4rem;
+
+}
+
+.efeito_menu_pequeno {
+    height: 60px;
+}
+
+.efeito_menu_pequeno:hover {
+    background-color: #3f3f3f;
+}
+
+.txt_menu_pequeno {
+    font-size: 14px;
+    text-align: center;
+}

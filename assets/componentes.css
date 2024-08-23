@@ -1,0 +1,18 @@
+.componentes {
+  display: flex;
+  /* width: 100%; */
+}
+
+.artigos {
+  margin-right: 30px;
+  gap: 14px;
+}
+
+.icone_menu_lateral>i {
+  font-size: 24px;
+}
+
+.div_artigos {
+  padding-top: 12.2rem;
+  /* margin-left: 180px; */
+}
