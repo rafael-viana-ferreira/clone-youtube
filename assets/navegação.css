@@ -25,7 +25,8 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: #f1f1f1;
+  color: #0f0f0f;
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -33,8 +34,8 @@
   font-style: normal;
 }
 
-.cont1:hover {
-  background-color: #6a6969;
+.cont1 :hover {
+  cursor: pointer;
 }
 
 .cont2 {
@@ -44,7 +45,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -54,6 +55,7 @@
 
 .cont2:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont3 {
@@ -63,7 +65,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -71,8 +73,9 @@
   font-style: normal;
 }
 
-.cont4:hover {
+.cont3:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont4 {
@@ -82,7 +85,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -92,6 +95,7 @@
 
 .cont4:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont5 {
@@ -101,7 +105,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -111,6 +115,7 @@
 
 .cont5:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont6 {
@@ -120,7 +125,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -130,6 +135,7 @@
 
 .cont6:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont7 {
@@ -139,7 +145,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -149,6 +155,7 @@
 
 .cont7:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont8 {
@@ -158,7 +165,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -168,6 +175,7 @@
 
 .cont8:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont9 {
@@ -177,7 +185,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -187,6 +195,7 @@
 
 .cont9:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont10 {
@@ -196,7 +205,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -206,6 +215,7 @@
 
 .cont10:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont11 {
@@ -215,7 +225,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -225,6 +235,7 @@
 
 .cont11:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont12 {
@@ -234,7 +245,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -244,6 +255,7 @@
 
 .cont12:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont13 {
@@ -253,7 +265,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -263,6 +275,7 @@
 
 .cont13:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont14 {
@@ -272,7 +285,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -282,6 +295,7 @@
 
 .cont14:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 .cont15 {
@@ -291,7 +305,7 @@
   align-items: center;
   padding: 0px 12px;
   margin: 12px 12px 12px 0px;
-  background-color: #3f3f3f;
+  background-color: rgb(34, 34, 34);
   border-radius: 8px;
   font-size: 1.4rem;
   font-family: "Roboto", arial, sans-serif;
@@ -301,6 +315,7 @@
 
 .cont15:hover {
   background-color: #6a6969;
+  cursor: pointer;
 }
 
 
@@ -308,4 +323,5 @@
 .cont16 {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
