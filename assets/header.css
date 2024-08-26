@@ -71,7 +71,7 @@ header svg {
 /*barra de pesquisa */
 
 .barra_de_pesquisa {
-  border: 1px solid rgb(34, 34, 34);
+  border: 1px solid #222222;
   width: 58.4rem;
   height: 4.0rem;
   border-radius: 30px;
